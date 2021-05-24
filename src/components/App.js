@@ -159,7 +159,7 @@ function App() {
   return (
       <div id="main">
         <div>
-          <h1>State List</h1>
+          <h1>State Lists</h1>
         </div>
         <div>
           {
